@@ -1,0 +1,6 @@
+framework module Pods_WhatDidYouDoToday {
+  umbrella header "Pods-WhatDidYouDoToday-umbrella.h"
+
+  export *
+  module * { export * }
+}

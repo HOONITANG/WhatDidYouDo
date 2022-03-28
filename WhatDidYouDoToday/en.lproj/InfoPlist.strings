@@ -1,0 +1,11 @@
+/*
+  InfoPlist.strings
+  TimeTodoPlanner
+
+  Created by Taehoon Kim on 2022/01/29.
+  
+*/
+
+CFBundleDisplayName = "Daily Planning";
+
+NSUserTrackingUsageDescription = "Please allow permission to provide customized services. For the purpose of providing personalized advertising based on Apple policy only.";
